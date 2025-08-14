@@ -1,10 +1,10 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.15 Chrome/134.0.6998.205 Electron/35.2.1 Safari/537.36" version="26.2.15">
   <diagram name="Страница — 1" id="POk9VMSIpR_N5jXy2fXX">
-    <mxGraphModel dx="1051" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="e9n4x-xvW9B4pWlje8qQ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n__J6HztuJ_hW7o95B4R-2" target="n__J6HztuJ_hW7o95B4R-5">
+        <mxCell id="e9n4x-xvW9B4pWlje8qQ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="n__J6HztuJ_hW7o95B4R-2" target="n__J6HztuJ_hW7o95B4R-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n__J6HztuJ_hW7o95B4R-2" value="Врач" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
@@ -24,7 +24,7 @@
         <mxCell id="z_T9ZkE01ChQy4VCIGWV-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="n__J6HztuJ_hW7o95B4R-7" target="z_T9ZkE01ChQy4VCIGWV-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e9n4x-xvW9B4pWlje8qQ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="n__J6HztuJ_hW7o95B4R-7" target="e9n4x-xvW9B4pWlje8qQ-1">
+        <mxCell id="e9n4x-xvW9B4pWlje8qQ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="n__J6HztuJ_hW7o95B4R-7" target="e9n4x-xvW9B4pWlje8qQ-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="228" y="520" />
@@ -35,7 +35,7 @@
         <mxCell id="n__J6HztuJ_hW7o95B4R-7" value="Реестр анализов" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="421" width="197.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n__J6HztuJ_hW7o95B4R-29" value="Биоматериалы,&lt;div&gt;ФИО пациента и&lt;/div&gt;&lt;div&gt;дата приема&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
+        <mxCell id="n__J6HztuJ_hW7o95B4R-29" value="Биоматериалы,&lt;div&gt;их идентификатор,&lt;/div&gt;&lt;div&gt;дата приема&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
           <mxGeometry x="719.9955555555555" y="520.0000000000001" as="geometry">
             <mxPoint x="3" y="1" as="offset" />
           </mxGeometry>
@@ -68,7 +68,7 @@
         <mxCell id="z_T9ZkE01ChQy4VCIGWV-9" value="Проведение лабораторных исследований" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" parent="1" vertex="1">
           <mxGeometry x="167.5" y="211" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="z_T9ZkE01ChQy4VCIGWV-10" value="Биоматериалы, их&lt;div&gt;идентификатор&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
+        <mxCell id="z_T9ZkE01ChQy4VCIGWV-10" value="Биоматериалы,&lt;div&gt;их идентификатор,&lt;/div&gt;&lt;div&gt;дата приема&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
           <mxGeometry x="70" y="352.49571428571426" as="geometry" />
         </mxCell>
         <mxCell id="z_T9ZkE01ChQy4VCIGWV-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="n__J6HztuJ_hW7o95B4R-2" target="n__J6HztuJ_hW7o95B4R-2" edge="1">
@@ -79,24 +79,24 @@
             <mxPoint x="1" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z_T9ZkE01ChQy4VCIGWV-19" value="Биоматериалы, их&lt;div&gt;идентификатор&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
+        <mxCell id="z_T9ZkE01ChQy4VCIGWV-19" value="Биоматериалы,&lt;div&gt;их идентификатор,&lt;/div&gt;&lt;div&gt;дата приема&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
           <mxGeometry x="130" y="415.99571428571426" as="geometry">
             <mxPoint x="44" y="-231" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z_T9ZkE01ChQy4VCIGWV-23" value="&lt;div&gt;ФИО пациента,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;дата&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;приема и&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;результаты исследований&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
+        <mxCell id="z_T9ZkE01ChQy4VCIGWV-23" value="&lt;div&gt;&lt;div&gt;Идентификатор биоматериала,&lt;/div&gt;&lt;div&gt;дата приема,&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;результаты исследований&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
           <mxGeometry x="413.9955555555555" y="472.5000000000001" as="geometry">
             <mxPoint x="1" y="20" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e9n4x-xvW9B4pWlje8qQ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="e9n4x-xvW9B4pWlje8qQ-1" target="n__J6HztuJ_hW7o95B4R-2">
+        <mxCell id="e9n4x-xvW9B4pWlje8qQ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="e9n4x-xvW9B4pWlje8qQ-1" target="n__J6HztuJ_hW7o95B4R-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e9n4x-xvW9B4pWlje8qQ-1" value="Проведение анализа результатов исследований" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+        <mxCell id="e9n4x-xvW9B4pWlje8qQ-1" value="Проведение анализа результатов исследований" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" parent="1" vertex="1">
           <mxGeometry x="495" y="211" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="e9n4x-xvW9B4pWlje8qQ-5" value="&lt;div&gt;ФИО пациента,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;дата&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;приема и&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;диагноз&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="499.9955555555555" y="490.0000000000001" as="geometry">
+        <mxCell id="e9n4x-xvW9B4pWlje8qQ-5" value="&lt;div&gt;ФИО пациента,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;дата&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;приема, результаты&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;исследований и&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;диагноз&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="479.9955555555555" y="480.0000000000001" as="geometry">
             <mxPoint x="5" y="-331" as="offset" />
           </mxGeometry>
         </mxCell>
